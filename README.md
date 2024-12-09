@@ -14,7 +14,7 @@ To learn more and get started, visit https://tinytapeout.com.
 
 ## 1. Create your design
 
-Go to the Wokwi project template (https://wokwi.com/projects/388731863464378369).  
+Go to the Wokwi project template (https://wokwi.com/projects/416775392411577345).  
 
 Using the drop down menu in the upper left, Save a Copy for your own project.
 
